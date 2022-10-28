@@ -1,2 +1,2 @@
 # Machine_Learning
-Personal Projects on various ML topics
+Personal and Academic Projects on various ML topics
