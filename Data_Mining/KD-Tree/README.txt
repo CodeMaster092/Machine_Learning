@@ -1,8 +1,3 @@
-****** GROUP MEMBERS **********
-1. Rahul Teja Gorantala  R11797652
-2. Gourav Singla  R11800214
-
-
 *********** HIGH LEVEL VIEW OF CODE ************
 
 1. In main function we are generating random data points in data array.
