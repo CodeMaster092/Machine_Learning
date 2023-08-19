@@ -2,12 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-// GROUP MEMBERS
-//1. Rahul Teja Gorantala  R11797652
-//2. Gourav Singla  R11800214
-
-
-
 // This routine finds the initial centroids before kmeans.
 int initial_centers(int dim, int i0, int im, double *data, int k, double *cluster_centroid) {
     int j=2;
