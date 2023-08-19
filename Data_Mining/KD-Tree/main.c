@@ -4,11 +4,6 @@
 #include <math.h>
 
 
-// GROUP MEMBER
-// Gourav Singla  R11800214
-// Rahul Teja Gorantala  R11797652
-
-
 // This function takes a cluster as input and divided it into two clusters based on the chosen dimension which has the highest variance among all the domensions
 int bipartition(int dim, int i0, int im, double *data, int chosen_dim, double mean, int *cluster_start, int *cluster_size,double **cluster_bdry, double **cluster_centroid,short *cluster_assign){
     int l = 0;
