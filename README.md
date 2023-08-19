@@ -1,2 +1,1 @@
-# Machine_Learning
-Personal and Academic Projects on various ML topics
+# Projects in Computer Vision, NLP, Reinforcement Learning, Exploratory Data Analysis and Predictive Modelling
