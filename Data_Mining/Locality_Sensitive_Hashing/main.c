@@ -2,13 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
-
-// GROUP MEMBER
-// Gourav Singla  R11800214
-// Rahul Teja Gorantala  R11797652
-
-
 //This function compares to arrays to check if they have all the values same.
 int compareArray(double *a,double *b, int size)	{
 
